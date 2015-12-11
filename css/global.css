@@ -1,0 +1,108 @@
+.ticker {
+	width: 400px;
+	height: 100px;
+	overflow: hidden;
+	border: 1px solid #DDD;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px #DDD;
+}
+
+#ticker_02 {
+	width: 100%;
+	height: 245px;
+}
+
+#ticker_02 li{
+	height: 20%;
+	border-bottom: 1px dotted #DDD;
+}
+
+.ticker li {
+	height: 50px;
+	border-bottom: 1px dotted #DDD;
+	padding: 15px;
+	margin: 0px 5px;
+}
+
+#ticker_01{
+	width: 190px;
+	height: 470px;
+	border-bottom: 0px dotted #DDD;
+}
+
+#ticker_01 li{
+
+	border-bottom: 0px dotted #DDD;
+}
+
+#ticker_03{
+	width: 100%;
+	height: 270px;
+	border-bottom: 0px dotted #DDD;
+}
+
+#ticker_03 li{
+
+	border-bottom: 0px dotted #DDD;
+}
+
+#ticker_04 {
+	height: 150px;
+}
+#ticker_04 li {
+	height: 40px;
+	overflow: hidden;
+} 
+#ticker_04 img {
+	float: left;
+	height: 40px;
+	width: 40px;
+	margin-right: 10px;
+} 
+
+#example_4 { display: none;}
+
+#ticker_05{
+	width: 100%;
+	height: 300px;
+	border-bottom: 1px dotted #DDD;
+	text-align: justify;
+}
+
+#ticker_05 li{
+	height: 45%;
+	border-bottom: 0 dotted #DDD;
+}
+
+#ticker_06 {
+	width: 100%;
+	height: 200px;
+}
+
+#ticker_06 li{
+	height: 100%;
+	border-bottom: 1px dotted #DDD;
+}
+
+#ticker_07 {
+	width: 100%;
+	height: 450px;
+}
+
+#ticker_07 li{
+	height: 45%;
+	border-bottom: 1px dotted #DDD;
+}
+
+#ticker_08 {
+	width: 100%;
+	height: 210px;
+}
+
+#ticker_08 li{
+	height: 100%;
+	border-bottom: 0px dotted #DDD;
+}
