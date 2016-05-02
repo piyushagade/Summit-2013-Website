@@ -1,4 +1,4 @@
-Texephyr 2014
+MIT Summit 2013
 =======================
 
 Official website of MIT Summit 2013, a national level inter-collegiate sports competition organised and hosted by Maharashtra Institute of Technology, Pune.
