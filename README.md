@@ -15,7 +15,7 @@ Screenshots
 
 | Home Page 2 | 
 |:-:|:-:|:-:|:-:|
-| ![Home Page][1] |
+| ![Home Page][2] |
 
 
 | Events | 
