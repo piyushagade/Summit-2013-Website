@@ -8,19 +8,13 @@ The website is  currently offline.
 Screenshots
 -----------
 
-| Home Page 1 | 
-|:-:|:-:|:-:|:-:|
-| ![Home Page][1] |
+![Home Page][1]
 
 
-| Home Page 2 | 
-|:-:|:-:|:-:|:-:|
-| ![Home Page][2] |
+![Home Page][2]
 
 
-| Events | 
-|:-:|:-:|:-:|:-:|
-| ![Events][3] |
+[Events][3]
 
 [1]: http://i.imgur.com/yv0JAaQ.png
 [2]: http://i.imgur.com/JLh0kFL.png
